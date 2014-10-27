@@ -34,6 +34,13 @@
 \usepackage{times}
 % These packages are all incorporated in the memoir class to one degree or another...
 
+\usepackage{cite}
+\usepackage{url} 
+
+\usepackage{tikz}
+\usepackage{tikzscale}
+\usepackage{PGFPlots}
+
 %%% HEADERS & FOOTERS
 \usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
 \pagestyle{fancy} % options: empty , plain , fancy
@@ -56,15 +63,15 @@
 
 %%% The "real" document content comes below...
 
-\title{Brief Article}
+\title{ELEC2004 Design Challenge Report}
 \author{
 	{Ryan Fitzsimon}\\
 	{43214907}\\
-	\texttt{ryan.fitzsimon@uqconnect.edu.au}
+	\texttt{ryan.fitzsimon@uqconnect.edu.au}\\\\
 	\and
 	{Liam McMahon}\\
 	{43186022}\\
-	\texttt{liam.mcmahon1@uqconnect.edu.au}
+	\texttt{liam.mcmahon1@uqconnect.edu.au}\\\\
 }
 
 %\date{} % Activate to display a given date or no date (if empty),
@@ -79,6 +86,7 @@
 
 
 \section*{Abstract}
+\cite{ProgPara}
 Your text goes here.
 \pagebreak
 
@@ -87,6 +95,9 @@ Your text goes here.
 
 
 \tableofcontents
+\pagebreak
+\listoftables
+\listoffigures
 \pagebreak
 
 
@@ -99,7 +110,7 @@ Your text goes here.
 A black box containing a circuit of unknown composition was given for the group to analyse and design a reciprocal circuit which would negate the effects of the box. This meant that the desired output of the combination of the blackbox and the student designed circuit would be the same as the input into the combined circuits. 
 
 
-The input signal to the curcuit was a sinusoidal wave of 20V peak to peak, the frequency of which was between DC and 20 kHz. The only output load on the circuit was an oscilloscope of high impedance. The group was given three two hour sessions to design and test the proposed circuit, using a range of components supplied in the lab.
+The input signal to the circuit was a sinusoidal wave of 20V peak to peak, the frequency of which was between DC and 20 kHz. The only output load on the circuit was an oscilloscope of high impedance. The group was given three two hour sessions to design and test the proposed circuit, using a range of components supplied in the lab.
 
 
 
@@ -188,6 +199,24 @@ Starting at a frequency of 1 Hertz, the input and output of the black box was re
 
 \subsubsection{Experimental Results}
 
+\begin{figure}
+ 	\centering
+	\includegraphics[width=\textwidth]{BlackBox.tikz}
+	\caption{Blackbox}
+\end{figure}
+
+\begin{figure}
+ 	\centering
+	\includegraphics[width=\textwidth]{Designed.tikz}
+	\caption{Designed}
+\end{figure}
+
+\begin{figure}
+ 	\centering
+	\includegraphics[width=\textwidth]{Combined.tikz}
+	\caption{Combined}
+\end{figure}
+
 \pagebreak
 
 
@@ -225,6 +254,8 @@ More text.
 
 
 \section{Bibliography}
+\bibliographystyle{ieeetr}
+\bibliography{DesignChallengeReport}
 \pagebreak
 
 
@@ -233,6 +264,19 @@ More text.
 
 \section{Appendices}
 
+
+\begin{table}
+	\begin{center}
+		\begin{tabular}{| l c r|}
+		\hline
+		1 & 2 & 3 \\
+		4 & 5 & 6 \\
+		7 & 8 & 9 \\
+		\hline
+		\end{tabular}
+	\end{center}
+	\caption{A simple table}
+\end{table}
 
 
 

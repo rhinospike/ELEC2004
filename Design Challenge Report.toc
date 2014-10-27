@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Introduction}{5}
+\contentsline {subsection}{\numberline {1.1}Problem Description}{5}
+\contentsline {subsection}{\numberline {1.2}Approach Taken}{5}
+\contentsline {subsection}{\numberline {1.3}Report Breakdown}{5}
+\contentsline {section}{\numberline {2}Background}{7}
+\contentsline {subsection}{\numberline {2.1}Complex Impedance}{7}
+\contentsline {subsection}{\numberline {2.2}Transfer Functions}{7}
+\contentsline {section}{\numberline {3}Experimental Method and Results}{8}
+\contentsline {subsection}{\numberline {3.1}Analysing the Black Box}{8}
+\contentsline {subsubsection}{\numberline {3.1.1}Experimental Method}{8}
+\contentsline {subsubsection}{\numberline {3.1.2}Experimental Results}{8}
+\contentsline {subsection}{\numberline {3.2}Testing designed circuit}{9}
+\contentsline {subsubsection}{\numberline {3.2.1}Experimental Method}{9}
+\contentsline {subsubsection}{\numberline {3.2.2}Experimental Results}{9}
+\contentsline {section}{\numberline {4}Design}{13}
+\contentsline {subsection}{\numberline {4.1}Goals}{13}
+\contentsline {subsection}{\numberline {4.2}Method}{13}
+\contentsline {subsection}{\numberline {4.3}Outcomes}{13}
+\contentsline {section}{\numberline {5}Discussion}{14}
+\contentsline {section}{\numberline {6}Conclusion}{15}
+\contentsline {section}{\numberline {7}Bibliography}{16}
+\contentsline {section}{References}{16}
+\contentsline {section}{\numberline {8}Appendices}{17}
