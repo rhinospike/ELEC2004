@@ -12,12 +12,12 @@
 \contentsline {subsection}{\numberline {3.2}Testing designed circuit}{9}
 \contentsline {subsubsection}{\numberline {3.2.1}Experimental Method}{9}
 \contentsline {subsubsection}{\numberline {3.2.2}Experimental Results}{9}
-\contentsline {section}{\numberline {4}Design}{13}
-\contentsline {subsection}{\numberline {4.1}Goals}{13}
-\contentsline {subsection}{\numberline {4.2}Method}{13}
-\contentsline {subsection}{\numberline {4.3}Outcomes}{13}
-\contentsline {section}{\numberline {5}Discussion}{14}
-\contentsline {section}{\numberline {6}Conclusion}{15}
-\contentsline {section}{\numberline {7}Bibliography}{16}
-\contentsline {section}{References}{16}
-\contentsline {section}{\numberline {8}Appendices}{17}
+\contentsline {section}{\numberline {4}Design}{11}
+\contentsline {subsection}{\numberline {4.1}Goals}{11}
+\contentsline {subsection}{\numberline {4.2}Method}{11}
+\contentsline {subsection}{\numberline {4.3}Outcomes}{11}
+\contentsline {section}{\numberline {5}Discussion}{12}
+\contentsline {section}{\numberline {6}Conclusion}{13}
+\contentsline {section}{\numberline {7}Bibliography}{14}
+\contentsline {section}{References}{14}
+\contentsline {section}{\numberline {8}Appendices}{15}

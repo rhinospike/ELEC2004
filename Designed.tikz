@@ -1,5 +1,8 @@
 \begin{tikzpicture}
 	\begin{axis}[
+		legend pos = south east,
+		width = \textwidth,
+		height = 0.5\textwidth,
 		plot box ratio = 2,
 		grid = both,
 		xlabel=Frequency (Hz),
@@ -9,8 +12,8 @@
 		xticklabel={\pgfkeys{/pgf/fpu=true} \pgfmathparse{exp(\tick)} \pgfmathprintnumber[fixed relative, precision=3]{\pgfmathresult} \pgfkeys{/pgf/fpu=false}}
 		]
 		
-	\addplot[color=red, mark=x] table [y= Gain] {Designed.dat};
-	\addplot[color=blue] table [y= Expected] {Designed.dat};
+	\addplot[color=red, mark=x] table [y=Measured Gain (dB), col sep=tab] {Designed.dat};
+	\addplot[color=blue] table [y=Expected Gain (dB), col sep=tab] {Designed.dat};
 	\legend{Recorded,Expected}
 	\end{axis}
 \end{tikzpicture}

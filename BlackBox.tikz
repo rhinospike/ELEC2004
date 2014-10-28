@@ -1,5 +1,7 @@
 \begin{tikzpicture}
 	\begin{axis}[
+		width = \textwidth,
+		height = 0.5\textwidth,
 		plot box ratio = 2,
 		grid = both,
 		xlabel=Frequency (Hz),
@@ -8,9 +10,10 @@
 		scaled ticks=false,
 		xticklabel={\pgfkeys{/pgf/fpu=true} \pgfmathparse{exp(\tick)} \pgfmathprintnumber[fixed relative, precision=3]{\pgfmathresult} \pgfkeys{/pgf/fpu=false}}
 		]
-		
-	\addplot[color=red, mark=x] table [y= Gain] {BlackBox.dat};
-	\addplot[color=blue] table [y= Expected] {BlackBox.dat};
+	
+	
+	\addplot[color=red, mark=x] table [y=Measured Gain (dB), col sep=tab] {BlackBox.dat};
+	\addplot[color=blue] table [y=Expected Gain (dB), col sep=tab] {BlackBox.dat};
 	\legend{Recorded,Expected}
 	\end{axis}
 \end{tikzpicture}
