@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  30 OCT 2014 02:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  30 OCT 2014 16:58
 entering extended mode
 **Design*Challenge*Report.tex
-("C:\Users\da bes\Desktop\ELEC2004\Design Challenge Report.tex"
+("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -1100,16 +1100,104 @@ Package: pgfplotstable 2014/08/04 v1.11 Table typesetting and Pretty-printing (
 lotstable.code.tex"
 ("C:\Users\da bes\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\numtable\pgfp
 lotstable.coltype.code.tex")))
+("C:\Users\da bes\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty"
+Package: mathtools 2014/07/16 v1.15 mathematical typesetting tools
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count161
+\calc@Bcount=\count162
+\calc@Adimen=\dimen281
+\calc@Bdimen=\dimen282
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count163
+\calc@Cskip=\skip62
+)
+("C:\Users\da bes\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip63
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks38
+\ex@=\dimen283
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen284
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count164
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count165
+\leftroot@=\count166
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count167
+\DOTSCASE@=\count168
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen285
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count169
+\c@MaxMatrixCols=\count170
+\dotsspace@=\muskip17
+\c@parentequation=\count171
+\dspbrk@lvl=\count172
+\tag@help=\toks39
+\row@=\count173
+\column@=\count174
+\maxfields@=\count175
+\andhelp@=\toks40
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
+\@envbody=\toks41
+\multlinegap=\skip64
+\multlinetaggap=\skip65
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count176
+\l_MT_multwidth_dim=\dimen292
+\origjot=\skip66
+\l_MT_shortvdotswithinadjustabove_dim=\dimen293
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen294
+\l_MT_above_intertext_sep=\dimen295
+\l_MT_below_intertext_sep=\dimen296
+\l_MT_above_shortintertext_sep=\dimen297
+\l_MT_below_shortintertext_sep=\dimen298
+)
 ("C:\Users\da bes\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip60
-\f@ncyO@elh=\skip61
-\f@ncyO@erh=\skip62
-\f@ncyO@olh=\skip63
-\f@ncyO@orh=\skip64
-\f@ncyO@elf=\skip65
-\f@ncyO@erf=\skip66
-\f@ncyO@olf=\skip67
-\f@ncyO@orf=\skip68
+\fancy@headwidth=\skip67
+\f@ncyO@elh=\skip68
+\f@ncyO@erh=\skip69
+\f@ncyO@olh=\skip70
+\f@ncyO@orh=\skip71
+\f@ncyO@elf=\skip72
+\f@ncyO@erf=\skip73
+\f@ncyO@olf=\skip74
+\f@ncyO@orf=\skip75
 )
 ("C:\Users\da bes\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
@@ -1124,60 +1212,60 @@ Package tocbibind Note: Using section or other style headings.
 ) ("C:\Users\da bes\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty"
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 44.
-\cftparskip=\skip69
-\cftbeforetoctitleskip=\skip70
-\cftaftertoctitleskip=\skip71
-\cftbeforepartskip=\skip72
-\cftpartnumwidth=\skip73
-\cftpartindent=\skip74
-\cftbeforesecskip=\skip75
-\cftsecindent=\skip76
-\cftsecnumwidth=\skip77
-\cftbeforesubsecskip=\skip78
-\cftsubsecindent=\skip79
-\cftsubsecnumwidth=\skip80
-\cftbeforesubsubsecskip=\skip81
-\cftsubsubsecindent=\skip82
-\cftsubsubsecnumwidth=\skip83
-\cftbeforeparaskip=\skip84
-\cftparaindent=\skip85
-\cftparanumwidth=\skip86
-\cftbeforesubparaskip=\skip87
-\cftsubparaindent=\skip88
-\cftsubparanumwidth=\skip89
-\cftbeforeloftitleskip=\skip90
-\cftafterloftitleskip=\skip91
-\cftbeforefigskip=\skip92
-\cftfigindent=\skip93
-\cftfignumwidth=\skip94
-\cftbeforelottitleskip=\skip95
-\cftafterlottitleskip=\skip96
-\cftbeforetabskip=\skip97
-\cfttabindent=\skip98
-\cfttabnumwidth=\skip99
-\cftbeforesubfigskip=\skip100
-\cftsubfigindent=\skip101
-\cftsubfignumwidth=\skip102
-\cftbeforesubtabskip=\skip103
-\cftsubtabindent=\skip104
-\cftsubtabnumwidth=\skip105
+\cftparskip=\skip76
+\cftbeforetoctitleskip=\skip77
+\cftaftertoctitleskip=\skip78
+\cftbeforepartskip=\skip79
+\cftpartnumwidth=\skip80
+\cftpartindent=\skip81
+\cftbeforesecskip=\skip82
+\cftsecindent=\skip83
+\cftsecnumwidth=\skip84
+\cftbeforesubsecskip=\skip85
+\cftsubsecindent=\skip86
+\cftsubsecnumwidth=\skip87
+\cftbeforesubsubsecskip=\skip88
+\cftsubsubsecindent=\skip89
+\cftsubsubsecnumwidth=\skip90
+\cftbeforeparaskip=\skip91
+\cftparaindent=\skip92
+\cftparanumwidth=\skip93
+\cftbeforesubparaskip=\skip94
+\cftsubparaindent=\skip95
+\cftsubparanumwidth=\skip96
+\cftbeforeloftitleskip=\skip97
+\cftafterloftitleskip=\skip98
+\cftbeforefigskip=\skip99
+\cftfigindent=\skip100
+\cftfignumwidth=\skip101
+\cftbeforelottitleskip=\skip102
+\cftafterlottitleskip=\skip103
+\cftbeforetabskip=\skip104
+\cfttabindent=\skip105
+\cfttabnumwidth=\skip106
+\cftbeforesubfigskip=\skip107
+\cftsubfigindent=\skip108
+\cftsubfignumwidth=\skip109
+\cftbeforesubtabskip=\skip110
+\cftsubtabindent=\skip111
+\cftsubtabnumwidth=\skip112
 )
-\tikzscale@accuracy=\skip106
+\tikzscale@accuracy=\skip113
 
-("C:\Users\da bes\Desktop\ELEC2004\Design Challenge Report.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 81.
+("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 84.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1218,17 +1306,17 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 
 ("C:\Users\da bes\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count161
-\scratchdimen=\dimen281
-\scratchbox=\box54
-\nofMPsegments=\count162
-\nofMParguments=\count163
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count164
-\MPscratchDim=\dimen282
-\MPnumerator=\count165
-\makeMPintoPDFobject=\count166
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count177
+\scratchdimen=\dimen299
+\scratchbox=\box56
+\nofMPsegments=\count178
+\nofMParguments=\count179
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count180
+\MPscratchDim=\dimen300
+\MPnumerator=\count181
+\makeMPintoPDFobject=\count182
+\everyMPtoPDFconversion=\toks44
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -1238,156 +1326,148 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.11} into 
 your preamble.
- on input line 81.
+ on input line 84.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 82.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 82.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 85.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [1
 
 {C:/Users/da bes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 89.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 92.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 89.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 92.
  [2]
-("C:\Users\da bes\Desktop\ELEC2004\Design Challenge Report.toc"
+("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.toc"
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 1.
 )
 \tf@toc=\write5
  [3]
-("C:\Users\da bes\Desktop\ELEC2004\Design Challenge Report.lot")
+("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.lot")
 \tf@lot=\write6
 
-("C:\Users\da bes\Desktop\ELEC2004\Design Challenge Report.lof")
+("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.lof")
 \tf@lof=\write7
  [4]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 108.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 108.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 127.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 112.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 131.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 127.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
  [5] [6]
-<Impedances1.jpg, id=27, 1706.375pt x 1907.125pt>
-File: Impedances1.jpg Graphic file (type jpg)
- <use Impedances1.jpg>
-Package pdftex.def Info: Impedances1.jpg used on input line 148.
-(pdftex.def)             Requested size: 341.26895pt x 381.41824pt.
-
-[7 <C:/Users/da bes/Desktop/ELEC2004/Impedances1.jpg>] [8]
+[7]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 170.
- [9]
-("C:\Users\da bes\Desktop\ELEC2004\BlackBox.tikz"
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 163.
+ [8] ("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Designed.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
 PGFPlots: reading {Designed.dat}
 PGFPlots: reading {Designed.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Designed.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
 PGFPlots: reading {Designed.dat}
 PGFPlots: reading {Designed.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Designed.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
 PGFPlots: reading {Designed.dat}
 PGFPlots: reading {Designed.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Designed.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
 PGFPlots: reading {Designed.dat}
 PGFPlots: reading {Designed.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Designed.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
 PGFPlots: reading {Designed.dat}
 PGFPlots: reading {Designed.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Combined.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
 PGFPlots: reading {Combined.dat}
 PGFPlots: reading {Combined.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Combined.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
 PGFPlots: reading {Combined.dat}
 PGFPlots: reading {Combined.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Combined.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
 PGFPlots: reading {Combined.dat}
 PGFPlots: reading {Combined.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Combined.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
 PGFPlots: reading {Combined.dat}
 PGFPlots: reading {Combined.dat}
 )
-("C:\Users\da bes\Desktop\ELEC2004\Combined.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
 PGFPlots: reading {Combined.dat}
 PGFPlots: reading {Combined.dat}
-) [10] [11] [12] [13] [14]
-("C:\Users\da bes\Desktop\ELEC2004\Design Challenge Report.bbl") [15]
+) [9] [10]
+<CircuitDiagram.png, id=42, 530.49806pt x 469.10742pt>
+File: CircuitDiagram.png Graphic file (type png)
+
+<use CircuitDiagram.png>
+Package pdftex.def Info: CircuitDiagram.png used on input line 234.
+(pdftex.def)             Requested size: 364.19667pt x 322.06676pt.
+ [11] [12 <C:/Users/da bes/Desktop/git/ELEC2004/CircuitDiagram.png>] [13] [14]
+("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.bbl") [15]
 PGFPlots: reading {Combined.dat}
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {Designed.dat}
- [16]
-[17] [18] ("C:\Users\da bes\Desktop\ELEC2004\Design Challenge Report.aux") ) 
+
+[16] [17] [18] [19]
+("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.aux") ) 
 Here is how much of TeX's memory you used:
- 30351 strings out of 493921
- 735695 string characters out of 3144872
- 910071 words of memory out of 3000000
- 33144 multiletter control sequences out of 15000+200000
- 22026 words of font info for 49 fonts, out of 3000000 for 9000
+ 31479 strings out of 493921
+ 752124 string characters out of 3144872
+ 931806 words of memory out of 3000000
+ 34244 multiletter control sequences out of 15000+200000
+ 24165 words of font info for 56 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 73i,20n,103p,10424b,2506s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:
-/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/urw/times/utmr8a.pfb>
-Output written on "Design Challenge Report.pdf" (18 pages, 823709 bytes).
+ 73i,20n,103p,10424b,2515s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/time
+s/utmr8a.pfb>
+Output written on "Design Challenge Report.pdf" (19 pages, 167467 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

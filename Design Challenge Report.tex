@@ -42,12 +42,9 @@
 \usepackage{pgfplots}
 \usepackage{pgfplotstable}
 
-<<<<<<< HEAD
-=======
 \usepackage{mathtools}
 
 
->>>>>>> origin/master
 %%% HEADERS & FOOTERS
 \usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
 \pagestyle{fancy} % options: empty , plain , fancy
@@ -61,7 +58,7 @@
 % (This matches ConTeXt defaults)
 
 %%% ToC (table of contents) APPEARANCE
-\usepackage[nottoc,notlof,notlot]{tocbibind} % Put bibliography in the ToC
+\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
 \usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
 \renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
 \renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
@@ -94,6 +91,7 @@
 
 \section*{Abstract}
 \cite{ProgPara}
+Your text goes here.
 \pagebreak
 
 
@@ -145,23 +143,12 @@ This report will cover the following topics:
 
 \section{Background}
 
-\subsection{Frequency Domain}
-
-When a circuit involves energy storage components such as capacitors and inductors, it is often convenient to analyse a circuit in the frequency domain as opposed to the time domain. In order to analyse circuits in the frequency domain, each component's impedance must be known. Impedance is ratio of the voltage phasor through the component and the current phasor through the component. Figure 1 below shows the impedances of many common components.
-
-\begin{figure}[h]
-	\centering
-	\includegraphics[scale=0.2]{Impedances1.jpg}
-	\caption{List of common impedances (Dorf, R, Svoboda, J, 2014)}
-\end{figure}
+\subsection{Complex Impedance}
 
 
 
 \subsection{Transfer Functions}
 
-A transfer function is the ratio of the Laplace transform of the input to a circuit to the Laplace transform of the output. It is a useful tool for analysing circuits, as it allows the 
-
-\textcolor{red}{poles and zeroes}
 
 \pagebreak
 
@@ -263,9 +250,9 @@ Starting at a frequency of 1 Hertz, the input and output of the black box was re
 
 \section{Discussion}
 
-As can be seen from Figure 4, the designed circuit was very effective at negating the black box. The only weakness in the design was the slight dip in the gain at mid range frequencies, and the smaller drop at high frequencies. However, the maximum deviation of the actual output from the expected was -1.6dB, which is very small considering the simplicity of the design. It can be seen that in the Bode plot of the designed circuit that the actual values of the zeroes and poles do not quite match up with the expected values \textcolor{red}{(I'll put legit values in here)} and this is what is causing the descrepencies. This could have been avoided by selecting more components to be placed in series and/or parallel with the chosen ones to make the values more accurately match up with the ideal calculated ones.
+As can be seen from Figure 4, the designed circuit was very effective at negating the black box. The only weakness in the design was the slight dip in the gain at mid range frequencies, and the smaller drop at high frequencies. However, the maximum deviation of the actual output from the expected was -1.6dB, which is very small considering the simplicity of the design. It can be seen that in the Bode plot of the designed circuit that the actual values of the zeroes and poles do not quite match up with the expected values \textcolor{red}{(I'll put legit values in here)} and this is what is causing the discrepancies. This could have been avoided by selecting more components to be placed in series and/or parallel with the chosen ones to make the values more accurately match up with the ideal calculated ones.
 
-The experiments were carried out to the highest degree of accuracy possible with the given equiment and time constraints. Where measurements were taken that appeared to be sensitive to small changes, the values were checked several times. Sufficient data was collected to thoroughly analyse the blackbox, and this helped greatly with the process of design of the negation circuit. From the data
+The experiments were carried out to the highest degree of accuracy possible with the given equipment and time constraints. Where measurements were taken that appeared to be sensitive to small changes, the values were checked several times. Sufficient data was collected to thoroughly analyse the blackbox, and this helped greatly with the process of design of the negation circuit.
 
 \pagebreak
 
@@ -274,6 +261,7 @@ The experiments were carried out to the highest degree of accuracy possible with
 
 
 \section{Conclusion}
+More text.
 \pagebreak
 
 
