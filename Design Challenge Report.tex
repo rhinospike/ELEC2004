@@ -156,11 +156,9 @@ This report will cover the following topics:
 
 
 
-\section{Experimental Method and Results}
+\section{Analysing the Black Box}
 
-\subsection{Analysing the Black Box}
-
-\subsubsection{Experimental Method}
+\subsection{Experimental Method}
 
 The apparatus used to analyse the black box was:
 \begin{itemize} \itemsep1pt
@@ -176,49 +174,14 @@ The input of the black box was connected to the output of the wave generator. Th
 
 Starting at a frequency of 1 Hertz, the input and output of the black box was recorded at regular intervals up to and including a frequency of 20 kiloHertz. This data can be seen and analysed in the following section of the report.
 
-\subsubsection{Experimental Results}
+\subsection{Experimental Results}
 
-
-
-\pagebreak
-
-\subsection{Testing designed circuit}
-
-\subsubsection{Experimental Method}
-
-The apparatus used to test the designed circuit was:
-\begin{itemize} \itemsep1pt
-	\item The blackbox;
-	\item The circuit;
-	\item A wave generator; and
-	\item An oscilloscope.
-\end{itemize}
-
-
-As with the analysis of the black box, the properties of the generated wave were set to be sinusoidal of peak to peak voltage of 20V and no offset.
-
-The input of the black box was connected to the output of the wave generator. This input signal was also connected to one port of the oscilloscope to measure the voltage into the black box. The ground of the black box was connected to the ground of the wave generator, the ground of the oscilloscope and the ground of the designed circuit. The output of the black box was connected to the input of the designed circuit, and the output of this circuit was connected to the input of the oscilloscope.
-
-Starting at a frequency of 1 Hertz, the input and output of the black box was recorded at regular intervals up to and including a frequency of 20 kiloHertz. This data can be seen and analysed in the following section of the report.
-
-\subsubsection{Experimental Results}
+	
 
 \begin{figure}
  	\centering
-	\includegraphics[width=\textwidth]{BlackBox.tikz}
-	\caption{Blackbox}
-\end{figure}
-
-\begin{figure}
- 	\centering
-	\includegraphics[width=\textwidth]{Designed.tikz}
-	\caption{Designed}
-\end{figure}
-
-\begin{figure}
- 	\centering
-	\includegraphics[width=\textwidth]{Combined.tikz}
-	\caption{Combined}
+	\includegraphics[width=\textwidth]{Blackbox.tikz}
+	\caption{Bode Plot of BlackBox}
 \end{figure}
 
 \pagebreak
@@ -248,11 +211,57 @@ Starting at a frequency of 1 Hertz, the input and output of the black box was re
 
 
 
+\section{Testing designed circuit}
+
+\subsection{Experimental Method}
+
+The apparatus used to test the designed circuit was:
+\begin{itemize} \itemsep1pt
+	\item The blackbox;
+	\item The circuit;
+	\item A wave generator; and
+	\item An oscilloscope.
+\end{itemize}
+
+
+As with the analysis of the black box, the properties of the generated wave were set to be sinusoidal of peak to peak voltage of 20V and no offset.
+
+The input of the black box was connected to the output of the wave generator. This input signal was also connected to one port of the oscilloscope to measure the voltage into the black box. The ground of the black box was connected to the ground of the wave generator, the ground of the oscilloscope and the ground of the designed circuit. The output of the black box was connected to the input of the designed circuit, and the output of this circuit was connected to the input of the oscilloscope.
+
+Starting at a frequency of 1 Hertz, the input and output of the black box was recorded at regular intervals up to and including a frequency of 20 kiloHertz. This data can be seen and analysed in the following section of the report.
+
+\subsection{Experimental Results}
+
+
+
+\begin{figure}
+ 	\centering
+	\includegraphics[width=\textwidth]{Designed.tikz}
+	\caption{Designed}
+\end{figure}
+
+\begin{figure}
+ 	\centering
+	\includegraphics[width=\textwidth]{Combined.tikz}
+	\caption{Combined}
+\end{figure}
+
+\pagebreak
+
+
+
+
 \section{Discussion}
+
+The results gained closely matched the theory behind the design. The theory predicted that the circuit design shown in Figure 2 would effectively negate the effects of the black box. However, a full negation would require resistor values of 15903.5$\Omega$ and 3600.79$\Omega$ for R1 and R2 respectively, while the nearest available resistor values were 16000$\Omega$ and 3600$\Omega$. This meant that the expected gain of the complete circuit would not be exactly zero, as these cvariances in resistance, while small, would affect the output, and this is shown in Figure 4.
 
 As can be seen from Figure 4, the designed circuit was very effective at negating the black box. The only weakness in the design was the slight dip in the gain at mid range frequencies, and the smaller drop at high frequencies. However, the maximum deviation of the actual output from the expected was -1.6dB, which is very small considering the simplicity of the design. It can be seen that in the Bode plot of the designed circuit that the actual values of the zeroes and poles do not quite match up with the expected values \textcolor{red}{(I'll put legit values in here)} and this is what is causing the discrepancies. This could have been avoided by selecting more components to be placed in series and/or parallel with the chosen ones to make the values more accurately match up with the ideal calculated ones.
 
+The limitations observed in the circuit was that it was decreasingly effective at negating the black box at very high frequencies. However, these frequencies were outside of the scope of the experiment. At frequencies near 20 kiloHertz, it was necessary to reduce the amplitude of the input voltage in order to allow the slew rate of the operational amplifier to deal with the frquencies.
+
 The experiments were carried out to the highest degree of accuracy possible with the given equipment and time constraints. Where measurements were taken that appeared to be sensitive to small changes, the values were checked several times. Sufficient data was collected to thoroughly analyse the blackbox, and this helped greatly with the process of design of the negation circuit.
+
+In order to improve the design, it is suggested that the most precise selection of components possible be obtained to perfectly negate the effects of the black box.
 
 \pagebreak
 
@@ -261,7 +270,9 @@ The experiments were carried out to the highest degree of accuracy possible with
 
 
 \section{Conclusion}
-More text.
+
+A circuit was designed to effectively negate the black box. It was not a perfect negation as the values of the resistors used was slightly inaccurate. However, these inaccuracies were due to the limitations placed on available components and a desire for simplicity and elegance of design. The recommended improvements for the design would be to source the exact resistors required to perfectly negate the black box.
+
 \pagebreak
 
 

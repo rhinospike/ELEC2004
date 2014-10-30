@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  30 OCT 2014 16:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  30 OCT 2014 20:23
 entering extended mode
 **Design*Challenge*Report.tex
-("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.tex"
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Design Challenge Report.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -1252,7 +1252,7 @@ Package tocloft Info: The document has section divisions on input line 44.
 )
 \tikzscale@accuracy=\skip113
 
-("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.aux")
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Design Challenge Report.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
 LaTeX Font Info:    ... okay on input line 84.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
@@ -1344,16 +1344,16 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 92.
  [2]
-("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.toc"
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Design Challenge Report.toc"
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 )
 \tf@toc=\write5
- [3]
-("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.lot")
-\tf@lot=\write6
 
-("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.lof")
+[3] ("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Design Challenge Report.lot
+")
+\tf@lot=\write6
+ ("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Design Challenge Report.lof")
 \tf@lof=\write7
  [4]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
@@ -1362,110 +1362,107 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 112.
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 131.
 
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
- [5] [6]
-[7]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 163.
- [8] ("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
+ [5]
+[6] [7] ("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Blackbox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Blackbox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Blackbox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Blackbox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
 )
-("C:\Users\da bes\Desktop\git\ELEC2004\BlackBox.tikz"
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Blackbox.tikz"
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {BlackBox.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
-PGFPlots: reading {Designed.dat}
-PGFPlots: reading {Designed.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
-PGFPlots: reading {Designed.dat}
-PGFPlots: reading {Designed.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
-PGFPlots: reading {Designed.dat}
-PGFPlots: reading {Designed.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
-PGFPlots: reading {Designed.dat}
-PGFPlots: reading {Designed.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Designed.tikz"
-PGFPlots: reading {Designed.dat}
-PGFPlots: reading {Designed.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
-PGFPlots: reading {Combined.dat}
-PGFPlots: reading {Combined.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
-PGFPlots: reading {Combined.dat}
-PGFPlots: reading {Combined.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
-PGFPlots: reading {Combined.dat}
-PGFPlots: reading {Combined.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
-PGFPlots: reading {Combined.dat}
-PGFPlots: reading {Combined.dat}
-)
-("C:\Users\da bes\Desktop\git\ELEC2004\Combined.tikz"
-PGFPlots: reading {Combined.dat}
-PGFPlots: reading {Combined.dat}
-) [9] [10]
-<CircuitDiagram.png, id=42, 530.49806pt x 469.10742pt>
+) [8]
+<CircuitDiagram.png, id=34, 530.49806pt x 469.10742pt>
 File: CircuitDiagram.png Graphic file (type png)
 
 <use CircuitDiagram.png>
-Package pdftex.def Info: CircuitDiagram.png used on input line 234.
+Package pdftex.def Info: CircuitDiagram.png used on input line 197.
 (pdftex.def)             Requested size: 364.19667pt x 322.06676pt.
- [11] [12 <C:/Users/da bes/Desktop/git/ELEC2004/CircuitDiagram.png>] [13] [14]
-("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.bbl") [15]
+ [9] [10 <C:/Users/da bes/Desktop/git/ELEC2004/ELEC2004/CircuitDiagram.png>]
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Designed.tikz"
+PGFPlots: reading {Designed.dat}
+PGFPlots: reading {Designed.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Designed.tikz"
+PGFPlots: reading {Designed.dat}
+PGFPlots: reading {Designed.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Designed.tikz"
+PGFPlots: reading {Designed.dat}
+PGFPlots: reading {Designed.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Designed.tikz"
+PGFPlots: reading {Designed.dat}
+PGFPlots: reading {Designed.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Designed.tikz"
+PGFPlots: reading {Designed.dat}
+PGFPlots: reading {Designed.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Combined.tikz"
+PGFPlots: reading {Combined.dat}
+PGFPlots: reading {Combined.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Combined.tikz"
+PGFPlots: reading {Combined.dat}
+PGFPlots: reading {Combined.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Combined.tikz"
+PGFPlots: reading {Combined.dat}
+PGFPlots: reading {Combined.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Combined.tikz"
+PGFPlots: reading {Combined.dat}
+PGFPlots: reading {Combined.dat}
+)
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Combined.tikz"
+PGFPlots: reading {Combined.dat}
+PGFPlots: reading {Combined.dat}
+) [11] [12]
+[13] [14]
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Design Challenge Report.bbl")
+[15]
 PGFPlots: reading {Combined.dat}
 PGFPlots: reading {BlackBox.dat}
 PGFPlots: reading {Designed.dat}
-
-[16] [17] [18] [19]
-("C:\Users\da bes\Desktop\git\ELEC2004\Design Challenge Report.aux") ) 
+ [16] [17] [18] [19]
+("C:\Users\da bes\Desktop\git\ELEC2004\ELEC2004\Design Challenge Report.aux") )
+ 
 Here is how much of TeX's memory you used:
- 31479 strings out of 493921
- 752124 string characters out of 3144872
- 931806 words of memory out of 3000000
- 34244 multiletter control sequences out of 15000+200000
- 24165 words of font info for 56 fonts, out of 3000000 for 9000
+ 31476 strings out of 493921
+ 752488 string characters out of 3144872
+ 913408 words of memory out of 3000000
+ 34241 multiletter control sequences out of 15000+200000
+ 21869 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  73i,20n,103p,10424b,2515s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/time
-s/utmr8a.pfb>
-Output written on "Design Challenge Report.pdf" (19 pages, 167467 bytes).
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/urw/times/utmr8a.pfb>
+Output written on "Design Challenge Report.pdf" (19 pages, 168841 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
