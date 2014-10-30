@@ -14,6 +14,6 @@
 	
 	\addplot[color=red, mark=x] table [y=Measured Gain (dB), col sep=tab] {BlackBox.dat};
 	\addplot[color=blue] table [y=Expected Gain (dB), col sep=tab] {BlackBox.dat};
-	\legend{Recorded,Expected}
+	\legend{Recorded,Calculated}
 	\end{axis}
 \end{tikzpicture}

@@ -42,6 +42,8 @@
 \usepackage{pgfplots}
 \usepackage{pgfplotstable}
 
+\usepackage{mathtools}
+
 
 %%% HEADERS & FOOTERS
 \usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
@@ -227,6 +229,12 @@ Starting at a frequency of 1 Hertz, the input and output of the black box was re
 
 \section{Design}
 
+\begin{figure}
+ 	\centering
+	\includegraphics[width=0.8\textwidth]{CircuitDiagram.png}
+	\caption{Circuit schematic}
+\end{figure}
+
 \subsection{Goals}
 
 
@@ -265,6 +273,52 @@ More text.
 
 
 \section{Appendices}
+
+\begin{equation}
+	1 + \frac{z_1}{z_2} = \frac{1+j\frac{\omega}{p}}{1+j\frac{\omega}{z}}
+\end{equation}
+
+\begin{equation}
+	\frac{z_1}{z_2} = \frac{1+j\frac{\omega}{p}-(1+j\frac{\omega}{z})}{1+j\frac{\omega}{z}}
+\end{equation}
+
+\begin{equation}
+	\frac{z_1}{z_2} = \frac{j\frac{\omega}{p}-j\frac{\omega}{z}}{1+j\frac{\omega}{z}} = \frac{j\frac{\omega}{240\pi}-j\frac{\omega}{1300\pi}}{1+j\frac{\omega}{1300\pi}} 
+\end{equation}
+
+\begin{equation}
+	\frac{z_1}{z_2} = \frac{j\omega(\frac{1}{240\pi}-\frac{1}{1300\pi})}{1+\frac{j\omega}{1300\pi}}
+\end{equation}
+
+\begin{equation}
+	\frac{z_1}{z_2} = \frac{j\omega(\frac{53}{15600\pi})}{1+\frac{j\omega}{1300\pi}}
+\end{equation}
+
+\begin{equation}
+	\frac{z_1}{z_2} = \frac{j53\omega}{15600\pi+j12\omega}
+\end{equation}
+
+\begin{equation}
+	\frac{z_1}{z_2} = \frac{53}{\frac{15600\pi}{j\omega}+12}
+\end{equation}
+
+\begin{equation}
+	R_1 = 53a,\quad
+	R_2 = 12a,\quad
+	C = \frac{1}{15600\pi a}\quad\quad
+	\textrm{Where }a\textrm{ is an arbitrary constant}
+\end{equation}
+
+\begin{equation}
+	C = 68\textrm{ nF},\quad
+	a = 300.066
+\end{equation}
+
+\begin{equation}
+	R_1 = 15903.5\ \Omega,\quad
+	R_2 = 3600.79\ \Omega
+\end{equation}
+
 
 
 \begin{table}[htb]
